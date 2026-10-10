@@ -1,6 +1,6 @@
 cask "symbia" do
-  version "0.1.0"
-  sha256 "6c01e02da454acf392e5d13e3342983b9e10704780f284209b080c32e2d42f2f"
+  version "0.1.1"
+  sha256 "eda3b946559f9b775ab6b75f09603e82f8322d56f72efda7b04f2eddae29863f"
 
   url "https://github.com/Symbia-Labs/symbia/releases/download/v#{version}/symbia-#{version}-aarch64-apple-darwin.zip"
   name "Symbia"
